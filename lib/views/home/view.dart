@@ -156,7 +156,6 @@ class _HomeViewState extends State<HomeView> {
                 weight: weight,
                 age: age,
               );
-              print('OBJ');
               showResultDialog(
                 context,
                 [
